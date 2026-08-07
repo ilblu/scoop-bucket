@@ -1,12 +1,12 @@
 {
-  "version": "3.1.0",
+  "version": "4.0.0",
   "description": "Release management CLI for monorepos",
   "homepage": "https://github.com/ilblu/belaf",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/ilblu/belaf/releases/download/v3.1.0/belaf-x86_64-pc-windows-msvc.zip",
-      "hash": "3c3896ea17b74316051fc754abb8fb15132948f47ebf9811c473d0109c47ab1e"
+      "url": "https://github.com/ilblu/belaf/releases/download/v4.0.0/belaf-x86_64-pc-windows-msvc.zip",
+      "hash": "720961526fd1a6e24eac707672e04b9f6b89550f2ed621afd8209c1c0a54dca1"
     }
   },
   "bin": "belaf.exe",
